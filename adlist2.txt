@@ -9,3 +9,10 @@
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 log.byteoversea.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0
+0.0.0.0
